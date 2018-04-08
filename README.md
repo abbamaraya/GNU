@@ -1,0 +1,2 @@
+# GNU
+General public license
